@@ -25,3 +25,4 @@ Then run LCNN.py to train LiteNet
 
 ## Note:
 For further dosumentation, please refer to pdf
+LiteNet model not provided due to size of model meing 89 mb
